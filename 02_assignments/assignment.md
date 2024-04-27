@@ -11,10 +11,10 @@
     * Open a private window in your browser. Copy and paste the link to your pull request into the address bar. Make sure you can see your pull request properly. This helps the technical facilitator and learning support staff review your submission easily.
 
 Checklist:
-- [ ] Create a branch called `assignment`.
-- [ ] Ensure that the repository is public.
-- [ ] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
-- [ ] Verify that the link is accessible in a private browser window.
+- [Y] Create a branch called `assignment`.
+- [Y] Ensure that the repository is public.
+- [Y] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
+- [Y] Verify that the link is accessible in a private browser window.
 
 # Assignment: The Secret Password
 
@@ -35,6 +35,7 @@ You are stuck in a virtual room and can only leave if you figure out the passwor
 **What is the secret password?**
 ```
 Secret Password:  rings season meets and lucky stars
+
 1 Paper** rings**
 2 Friends **season ****10**
 3 The One Where Ross **Meets** Elizabeth's Dad
@@ -42,10 +43,10 @@ Secret Password:  rings season meets and lucky stars
 5``The **Lucky** One`
 6 Hanger Games & the **Stars** of Darkness
 
+
+
 |Criteria|Complete|Incomplete|
 |---|---|---|
 |Secret Password|The user properly used the proper bash commands to find the secret password.|The user did not properly used the proper bash commands to find the secret password.|
-
-
 
 If you encounter any difficulties or have questions, please don't hesitate to reach out to our team via our Slack at `#cohort-3-help`. Our Technical Facilitators and Learning Support staff are here to help you navigate any challenges.
