@@ -34,17 +34,19 @@ You are stuck in a virtual room and can only leave if you figure out the passwor
 
 **What is the secret password?**
 ```
-Your answer here...
+Secret Password:  rings season meets and lucky stars
+
+1 Paper** rings**
+2 Friends **season ****10**
+3 The One Where Ross **Meets** Elizabeth's Dad
+4 Space Wars: Future Legends **and** Past Legacies
+5``The **Lucky** One`
+6 Hanger Games & the **Stars** of Darkness
 
 
-
-
-```
 
 |Criteria|Complete|Incomplete|
 |---|---|---|
 |Secret Password|The user properly used the proper bash commands to find the secret password.|The user did not properly used the proper bash commands to find the secret password.|
-
-
 
 If you encounter any difficulties or have questions, please don't hesitate to reach out to our team via our Slack at `#cohort-3-help`. Our Technical Facilitators and Learning Support staff are here to help you navigate any challenges.
